@@ -29,3 +29,54 @@ h1{
     border-radius: 5px;
     
 }
+.donate-today{
+    margin-top: 5%;
+    margin-left: 30%;
+    padding: 50px 30px 20px;
+}
+
+h2{
+    font-weight: 900;
+    flex-direction: row-reverse;
+}
+.donater-taka{
+    text-decoration: none;
+    background-color:gold;
+    margin-left: 10%;
+    padding: 5px 10px 15px;
+}
+
+.total-amount{
+    margin-left: 42%;
+    margin-top: 3%;
+}
+#border{
+    border: 5px solid greenyellow;
+}
+#paradonat{
+    margin-left: 20%;
+}
+h3{
+    font-weight: 800;
+}
+.container{
+    display: flex;
+    margin-top: 3%;
+    padding: 30px 20px 30px;
+    box-shadow: 15px;
+}
+#food{
+    border: 5px solid rebeccapurple;
+    border-radius: 5px;
+    box-shadow: 7px;
+}
+#shelter{
+    border: 7px dotted red;
+    border-radius: 10px;
+    box-shadow: 10px;
+}
+#education{
+    border: 10px dashed palegreen;
+    border-radius: 10px;
+    box-shadow: 20px;
+}
