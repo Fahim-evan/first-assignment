@@ -80,3 +80,40 @@ h3{
     border-radius: 10px;
     box-shadow: 20px;
 }
+#footerall{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: black;
+    color: crimson;
+    font-weight: 900;
+}
+.mypot{
+    display: flex;
+    padding: 10% 20%  30%;
+}
+#imageresize{
+    height: 280px;
+    width: 350px;}
+
+#self-gec{
+    color:darkcyan;
+}
+#lasttag{
+    font-size: 30px;
+    color: purple;
+}
+#mymail{
+    text-decoration: none;
+    margin-left: 40%;
+    background-color: springgreen;
+    border: 10px solid blueviolet;
+    border-radius: 7px;
+
+
+}
+#listpara{
+    margin-left: 5%;
+    color: sienna;
+    font-weight: 900;
+}
